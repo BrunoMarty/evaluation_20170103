@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+ h1 {
+  text-align:center;
+  border-bottom:1px solid black;
+}
+
+ h3 {
+  background-color: white;
+  border-bottom: 2px solid black;
+}
+
+section {
+  background-color: darkgray;
+  margin-left:12%;
+  margin-right:12%;
+  margin-top:4%;
+  padding-bottom:4%;
+
+
+}
+
+article {
+  padding-left:10%;
+
+}
+li {
+  list-style-type: none;
+}
